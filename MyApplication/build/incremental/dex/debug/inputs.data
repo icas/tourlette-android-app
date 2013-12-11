@@ -1,0 +1,27 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377144351000 214 5bacd3e53a34d1c9c41d05b3ea160e55488e1351 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/placesapi/model/response/Response.class
+1377145759000 2588 a093e54efc2b8d8102f05a768c05179ace4fc3ee /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/placesapi/model/response/JSONResponseContent.class
+1376771356000 747 6646a1082f1f2d84ed0d0ea87b72b400610464f8 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R.class
+1377146306000 2878 dfdb28cf697c8cd142f60633134e0248787b5f8e /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/placesapi/model/Places.class
+1376771356000 472 ed675dbc63d1d8c71dafe4913d27e5c7bff64733 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$layout.class
+1376771356000 450 77f4fb0b538c1d2c35491a8c3e92660a0449c6ef /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$id.class
+1377146111000 1186 a21e3e5d5ef45da87a2e33ec98484f178ab8303f /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/DisplayMessageActivity$1.class
+1376937280000 1050 addfc71ab381a4a6c841e4c008d315a84d5d1544 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/placesapi/model/PagedResponseContent.class
+1376771356000 452 1a50449db5d798950feea61988b0024b6d50e47b /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$style.class
+1376771356000 428 55a643a0b155fd26d3984e444062582e16cdb5aa /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$drawable.class
+1377146111000 774 e4175b803145a80d6a777ab674a3d930bd0efe5d /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/placesapi/model/Place.class
+1376771356000 482 faada894e924919263c56b8f52dfdc73ffaae454 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$dimen.class
+1376771356000 661 1e92cc00be9c8068cad377e0909c6936455574c0 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$string.class
+1376955929000 1885 36c2341cdc8e1043375e6553db55d945de90f1c8 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/placesapi/model/Request.class
+1376962292000 321 ea202c15da00d015b1c0f531169a322d795da629 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/placesapi/model/reponse/Response.class
+1376771356000 361 e63ebf6bf1ea61b8b5ed2732fafe5c27d23e8041 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$attr.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1377144351000 443 3d7fd17352bc6ea383814335566852712a81be4d /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/placesapi/model/response/ResponseContent.class
+1377146111000 2210 71b3c594e6520ecc0d10ea1532e5512ee9fbd6d6 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/placesapi/model/response/JSONResponse.class
+1377145266000 1984 40c4ff3c4382899960f934509d193ae207d9a76f /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/DisplayMessageActivity.class
+1376771356000 359 fdc73ac1e1da2010356e9bbf147ce969332b18da /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/BuildConfig.class
+1376771356000 448 32251950055b1648f4f8c1bd0f08a9c82d210f67 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$menu.class
+1377144351000 2771 abaa76c52b88e241e321883faf46134e27a4600c /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/placesapi/ApiConnection.class
+1376942771000 1731 0f6d57c046881b7a402c5655ad792316de8912a6 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/MainActivity.class

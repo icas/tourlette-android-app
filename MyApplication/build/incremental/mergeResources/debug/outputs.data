@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376771355000 1394 68e1a1f98e188de025a17561a27e5decd14630a7 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values/values.xml
+1376771355000 541 e945601c528cecfce2f142d073b2b54ae5b65d54 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values-es/values.xml
+1376771355000 857 0701f37a0617dc6ebb862e48a396a6a8dcb8b309 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/layout/activity_main.xml
+1376771355000 370 b3560da3662606b5489f34fcadf2bcec2786fb2f /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/menu/display_message.xml
+1376771355000 648 7dc00b7a19488a6632bb4b0e8d0a8bf25f369840 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/layout/activity_display_message.xml
+1376771355000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1376771355000 331 7fbe379b3c66fc431fa5516fefa7fd76d4e799a9 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values-v11/values.xml
+1376771355000 359 253b999ba576f0be5c1f34c98fd8b9ea47948466 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/menu/main.xml
+1376771355000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1376771355000 345 a61a4e2b289ec4f5a7ff5abcd40191d8c25eb7fc /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values-v14/values.xml
+1376771355000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1376771355000 262 bb165156ae1b7b69aa17c6f0023274151bc63431 /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values-sw720dp-land/values.xml
+1376771355000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/icas/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
